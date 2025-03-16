@@ -5,7 +5,7 @@
 - 🌱 I'm learning ASP.NET Core & C#.  
 - 🎥 Planning to start a YouTube channel soon.  
 
-**Projects / Status **
+**Projects / Status**
 - 🔭  Lost & Found App using Avalonia GUI in C# [currently working on it].
 - 
 
